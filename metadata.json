@@ -1,0 +1,6 @@
+{
+  "name": "AquaPulse AI - Smart Fish Pond Telemetry & Quality Intelligence",
+  "description": "Enterprise-grade AI-powered fish pond water quality monitoring, real-time telemetry, predictive anomaly detection, and biochemical optimization dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
